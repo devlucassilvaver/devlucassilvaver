@@ -20,10 +20,13 @@
 
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucassilvaver&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucassilvaver&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devlucassilvaver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucassilvaver&layout=compact&theme=tokyonight"/>
+</p>
 
 <h3 align="center">🌎 Conecte-se comigo</h3>
 
