@@ -1,31 +1,16 @@
-<h1 align="left">Lucas Silva</h1>
+# Lucas Silva
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end, movido pela curiosidade de aprender e evoluir constantemente. Tenho interesse em criar soluções eficientes e escaláveis, aplicando conhecimentos em Java, SQL e Engenharia de Software em projetos práticos e acadêmicos. Atualmente, estou aprofundando meus estudos no ecossistema Java, com foco em Spring Boot para o desenvolvimento de aplicações robustas. Busco escrever código limpo e organizado, fortalecer minhas habilidades de resolução de problemas e ampliar continuamente meus conhecimentos para construir uma carreira sólida na área de tecnologia.
+
+#### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  Desenvolvedor em formação focado em Back-end com Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
 </p>
 
-<h3 align="left">Tecnologias</h3>
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
-<h3 align="left">Estatísticas do GitHub</h3>
-
-<p align="left">
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devlucassilvaver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://streak-stats.demolab.com?user=devlucassilvaver&theme=tokyonight"/>
-</p>
-
-<h3 align="left">Conecte-se comigo</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucassilvadevv/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+#### 📫 Contato 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
