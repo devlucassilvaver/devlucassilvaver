@@ -8,8 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvime
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
-<img align="left" alt="Spring Boot" src="https://wikimedia.org" width="40" height="30" alt="Spring-Boot">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="30"/>
 </p>
 
 #### 📫 Contato 
